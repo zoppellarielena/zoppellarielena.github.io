@@ -1,5 +1,5 @@
 ---
-title: Project for MSc Physics of Data @ University of Padova
+title: Projects for MSc Physics of Data @ University of Padova
 ---
 
 🧠 [**Reproducing Neuron Dynamics with Highly Structured and Trained Chaotic Random RNN Models**](https://github.com/zoppellarielena/Reproducing-Neuron-Dynamics-with-Highly-Structured-and-Trained-Chaotic-Random-RNN-Models)<br>
