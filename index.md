@@ -1,5 +1,6 @@
-# About Me
-
+---
+title: About Me
+---
 I'm a PhD student in **Brain, Mind and Computer Science** at the University of Padova.  
 I graduated in **Physics** and later in **Physics of Data**, where I discovered a strong interest in computer vision, LLM agents, reinforcement learning and cooperative systems. 
 This fascination ultimately led me to pursue a PhD that sits at the intersection of these fields.
