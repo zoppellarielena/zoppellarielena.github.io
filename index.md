@@ -1,4 +1,5 @@
 ---
+layout: default
 title: About Me
 ---
 I'm a PhD student in **Brain, Mind and Computer Science** at the University of Padova.  
