@@ -7,7 +7,7 @@ Due to this fascination, I took several courses and completed several projects r
 
 I completed an internship in Computer Vision jointly with the Siena Artificial Intelligence Laboratory (SAILab) at the University of Siena and the Visual Intelligence and Machine Perception (VIMP) group at the University of Padova.
 
-Currently, I'm a PhD student in Brain, Mind and Computer Science at the Department of Mathematics of the University of Padova. 
+Currently, I'm a PhD student in Brain, Mind and Computer Science at the Department of Mathematics of the University of Padova in partnership with Fondazione Bruno Kessler (Trento, Italy). 
 
 You can find a collection of my projects during MSc in Physics of Data [here](projects.md)
 
