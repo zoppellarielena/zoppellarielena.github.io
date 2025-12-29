@@ -3,15 +3,13 @@ layout: default
 title: About Me
 ---
 I graduated in Physics and later in Physics of Data at the University of Padova, where I had the opportunity to study various exciting research topics, including classical and quantum field theory, complex systems, computational neuroscience, astrophysics and explore the realm of artificial intelligence. 
-Due to this fascination, I took several courses and completed several projects regarding deep learning, computer vision, natural language processing and reinforcment learning.
+Due to this fascination, I took several courses and completed several projects regarding deep learning, computer vision, natural language processing and reinforcement learning.
 
 I completed an internship in Computer Vision jointly with the Siena Artificial Intelligence Laboratory (SAILab) at the University of Siena and the Visual Intelligence and Machine Perception (VIMP) group at the University of Padova.
 
 Currently, I'm a PhD student in Brain, Mind and Computer Science at the Department of Mathematics of the University of Padova. 
-My research topic blends cooperative and embodied artificial intelligence with computer vision.
 
 You can find a collection of my projects during MSc in Physics of Data [here](projects.md)
-
 
 <div style="display: flex; gap: 15px; align-items: center;">
 
