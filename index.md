@@ -2,7 +2,7 @@
 layout: default
 title: About Me
 ---
-I graduated in Physics and later in Physics of Data at the University of Padova, where I had the opportunity to study various exciting research topics, including classical and quantum field theory, complex systems, computational neuroscience, astrophysics, and explore the realm of artificial intelligence. 
+I graduated in Physics and later in Physics of Data at the University of Padova, where I had the opportunity to study various exciting research topics, including classical and quantum field theory, complex systems, computational neuroscience, astrophysics and explore the realm of artificial intelligence. 
 Due to this fascination, I took several courses and completed several projects regarding deep learning, computer vision, natural language processing and reinforcment learning.
 
 I completed an internship in Computer Vision jointly with the Siena Artificial Intelligence Laboratory (SAILab) at the University of Siena and the Visual Intelligence and Machine Perception (VIMP) group at the University of Padova.
