@@ -5,7 +5,7 @@ title: About Me
 I graduated in Physics and later in Physics of Data at the University of Padova, where I had the opportunity to study various exciting research topics, including classical and quantum field theory, complex systems, computational neuroscience, astrophysics and explore the realm of artificial intelligence. 
 Due to this fascination, I took several courses and completed several projects regarding deep learning, computer vision, natural language processing and reinforcement learning.
 
-I completed an internship in Computer Vision jointly with the Siena Artificial Intelligence Laboratory (SAILab) and the Visual Intelligence and Machine Perception (VIMP) group at the University of Padova.
+I completed an internship in Computer Vision jointly with the Siena Artificial Intelligence Laboratory (SAILab) and the Visual Intelligence and Machine Perception (VIMP) group at the University of Padova, working on action progress prediction in videos. You can find more details about this work here: [Multiview Progress Prediction of Robot Activities](https://arxiv.org/abs/2603.00151).
 
 Currently, I'm a PhD student in Brain, Mind and Computer Science at the Department of Mathematics of the University of Padova in partnership with Fondazione Bruno Kessler (Trento, Italy). 
 
