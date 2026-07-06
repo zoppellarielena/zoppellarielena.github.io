@@ -23,6 +23,7 @@ title: About Me
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" alt="GitHub"/>
   </a>
   </div>
+  </div>
 
   <!-- RIGHT COLUMN: Bio, Publications, Projects, Contact -->
   <div style="flex: 3; min-width: 300px;">
