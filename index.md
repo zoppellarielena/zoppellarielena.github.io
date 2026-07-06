@@ -25,10 +25,9 @@ title: About Me
 ---
 
 ## 📝 Publications & Experience
-- **PhD Student** | University of Padova & Fondazione Bruno Kessler *(Current)*
-- **Research Intern** | SAILab & VIMP Group, University of Siena and Univeristy of Padova
-  * Worked on action progress prediction in videos. 
-  * Check out our paper: [Multiview Progress Prediction of Robot Activities](https://arxiv.org/abs/2603.00151).
+  * **PhD Student** | University of Padova & Fondazione Bruno Kessler *(Current)*
+  * **Research Intern** | SAILab & VIMP Group, University of Siena and Univeristy of Padova
+    * Worked on action progress prediction in videos: [Multiview Progress Prediction of Robot Activities](https://arxiv.org/abs/2603.00151).
 
 ---
 
