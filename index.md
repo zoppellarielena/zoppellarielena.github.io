@@ -13,7 +13,7 @@ title: About Me
 
   <!-- Right Side: Bio Text -->
   <div style="flex: 3; min-width: 300px;">
-    <p>I am a PhD student in Brain, Mind and Computer Science at the Department of Mathematics of the University of Padova, affiliated to the <a href="http://vimp.math.unipd.it/index.html" target="_blank">Visual Intelligence and Machine Perception (VIMP) group</a> at the University of Padova and to the <a href="https://mobs.fbk.eu/" target="_blank">Mobile and Social Computing Lab (MobS) group</a> at Fondazione Bruno Kessler.</p>
+    <p>I am a PhD student in Brain, Mind and Computer Science at the Department of Mathematics of the <a href="http://unipd.it/en" target="_blank">University of Padova</a>, affiliated to the <a href="http://vimp.math.unipd.it/index.html" target="_blank">Visual Intelligence and Machine Perception (VIMP) group</a> at the University of Padova and to the <a href="https://mobs.fbk.eu/" target="_blank">Mobile and Social Computing Lab (MobS) group</a> at Fondazione Bruno Kessler.</p>
     
     <p>My research interests include computer vision for video understanding, multi-agent cooperation in visual embodied AI, and neuroscience-inspired systems. 🤖</p>
     
