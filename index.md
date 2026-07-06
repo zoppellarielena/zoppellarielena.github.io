@@ -2,15 +2,42 @@
 layout: default
 title: About Me
 ---
-I graduated in Physics and later in Physics of Data at the University of Padova, where I had the opportunity to study various exciting research topics, including classical and quantum field theory, complex systems, computational neuroscience, astrophysics and explore the realm of artificial intelligence. 
-Due to this fascination, I took several courses and completed several projects regarding deep learning, computer vision, natural language processing and reinforcement learning.
 
-I completed an internship in Computer Vision jointly with the Siena Artificial Intelligence Laboratory (SAILab) and the Visual Intelligence and Machine Perception (VIMP) group at the University of Padova, working on action progress prediction in videos. You can find more details about this work here: [Multiview Progress Prediction of Robot Activities](https://arxiv.org/abs/2603.00151).
+<div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 30px;">
+  
+  <!-- Left Side: Image and Name -->
+  <div style="flex: 1; min-width: 180px; text-align: center;">
+    <img src="assets/profile.jpeg" alt="Elena Zoppellari" style="width: 160px; height: 160px; border-radius: 50%; object-fit: cover; margin-bottom: 10px;">
+    <h2 style="margin: 0; font-size: 1.5rem;">Elena Zoppellari</h2>
+  </div>
 
-Currently, I'm a PhD student in Brain, Mind and Computer Science at the Department of Mathematics of the University of Padova in partnership with Fondazione Bruno Kessler (Trento, Italy). 
+  <!-- Right Side: Bio Text -->
+  <div style="flex: 3; min-width: 300px;">
+    <p>I am a PhD student in Brain, Mind and Computer Science at the Department of Mathematics of the University of Padova, affiliated to the <a href="http://vimp.math.unipd.it/index.html" target="_blank">Visual Intelligence and Machine Perception (VIMP) group</a> at the University of Padova and to the <a href="https://mobs.fbk.eu/" target="_blank">Mobile and Social Computing Lab (MobS) group</a> at Fondazione Bruno Kessler.</p>
+    
+    <p>My research interests include computer vision for video understanding, multi-agent cooperation in visual embodied AI, and neuroscience-inspired systems. 🤖</p>
+    
+    <p>Previously, I graduated in both Physics of Data and Physics at the University of Padova, Italy. This experience has allowed me to develop a strong analytical approach to problem-solving and a curious mind. ⏳</p>
+  </div>
 
-You can find a collection of my projects during MSc in Physics of Data [here](projects.md)
+</div>
 
+---
+
+## 📝 Publications & Experience
+* **PhD Student** | University of Padova & Fondazione Bruno Kessler *(Current)*
+* **Research Intern** | SAILab & VIMP Group, University of Padova
+  * Worked on action progress prediction in videos. 
+  * Check out our paper: [Multiview Progress Prediction of Robot Activities](https://arxiv.org/abs/2603.00151).
+
+---
+
+## 💻 Featured Projects
+You can find a complete collection of my projects during my MSc in Physics of Data [here](projects.md). 
+
+---
+
+## 📫 Contact & Links
 <div style="display: flex; gap: 15px; align-items: center;">
 
 <a href="https://www.linkedin.com/in/elena-zoppellari/" target="_blank">
