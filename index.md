@@ -11,7 +11,7 @@ title: About Me
     
 <hr style="margin: 30px 0;">
 
-<h2 style="margin-top: 0;">📫 Contact &amp; Links</h2>
+<h2 style="margin-top: 0; text-align: left;">📫 Contact &amp; Links</h2>
 <div style="display: flex; gap: 15px; align-items: center; margin-top: 15px;">
   <a href="https://www.linkedin.com/in/elena-zoppellari/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" alt="LinkedIn"/>
